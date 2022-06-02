@@ -24,7 +24,9 @@ mdbook serve
 
 ## 贡献
 
-有志于传道的同行者请参阅 [传道者指南](./CONTRIBUTING.md)
+- 有志于传道的同行者请参阅 [传道者指南](./CONTRIBUTING.md)
+- 秘籍中有錯漏请通过 [Issues](https://github.com/Xuanwo/keyboard-coming/issues/new/choose) 反馈
+- 有新的方法或者修炼中遇到问题请通过 [Discussions](https://github.com/Xuanwo/keyboard-coming/discussions) 讨论
 
 #### 协议
 
