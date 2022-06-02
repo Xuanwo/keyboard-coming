@@ -12,6 +12,6 @@
 
 如果道友的剑胚是 Apple 旗下的产品并运行着 Mac OS X 系统，请选择 MacOS 平台。
 
-[Windows 平台](./windows.md)
+## [Windows 平台](./windows.md)
 
 如果道友的剑胚运行着 Windows，请选择 Windows 平台。
