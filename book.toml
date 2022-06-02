@@ -4,3 +4,7 @@ language = "zh"
 multilingual = false
 src = "src"
 title = "键来"
+
+[output.html]
+edit-url-template = "https://github.com/Xuanwo/keyboard-coming/edit/main/src/{path}"
+git-repository-url = "https://github.com/Xuanwo/keyboard-coming"
