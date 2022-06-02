@@ -22,6 +22,10 @@ mdbook build
 mdbook serve
 ```
 
+## 贡献
+
+有志于传道的同行者请参阅 [传道者指南](./CONTRIBUTING.md)
+
 #### 协议
 
 <sup>
