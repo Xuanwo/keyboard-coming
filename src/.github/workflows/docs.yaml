@@ -28,7 +28,7 @@ jobs:
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           vercel-args: '--prod'
           scope: xuanwo
-          working-directory: ./target/book
+          working-directory: ./book
 
       - name: Deploy to vercel (preview)
         if: github.ref_name != 'main'
@@ -39,4 +39,4 @@ jobs:
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           scope: xuanwo
-          working-directory: ./target/book
+          working-directory: ./book
