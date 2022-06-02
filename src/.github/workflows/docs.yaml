@@ -18,6 +18,9 @@ jobs:
         with:
           mdbook-version: 'latest'
 
+      - run: |
+          mdbook build
+
       - name: Deploy to vercel
         if: github.ref_name == 'main'
         uses: amondnet/vercel-action@v20
